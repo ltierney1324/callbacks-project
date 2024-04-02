@@ -22,7 +22,10 @@ console.log(test); // ['LAIKA', 'BELKA']
 *******************************************************************************/
 
 function myForEach(array, cb) {
-    // Your code here 
+    // Your code here
+    const newArray = array.map((cb) => {
+        return newArray});
+
 }
 
 /*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
